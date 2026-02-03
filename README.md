@@ -1,4 +1,4 @@
-# vim-web
+# ghostty-web
 
 A web-based terminal emulator that runs an interactive shell directly in the browser. This full-stack application connects a browser-based terminal UI with a native shell running on the backend server.
 
